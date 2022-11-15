@@ -1,3 +1,6 @@
+* Enhancing speed by more than 100x using multiProcessing module.
+You should find train.json manually in offical kinetics site due to its size
+
 # Download DeepMind's Kinetics
 
 Download all videos from DeepMind's [Kinetics dataset](https://deepmind.com/research/open-source/open-source-datasets/kinetics/).
