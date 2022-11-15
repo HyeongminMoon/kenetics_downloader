@@ -1,0 +1,69 @@
+Normal
+2:"adjusting glasses"
+42:"blowing nose"
+60:"brushing hair"
+61:"brushing teeth"
+97:"chewing gum"
+103:"clapping"
+125:"coughing"
+126:"counting money"
+129:"cracking knuckles"
+130:"cracking neck"
+169:"drinking shots"
+179:"eating burger"
+180:"eating cake"
+181:"eating carrots"
+182:"eating chips"
+183:"eating doughnuts"
+184:"eating hotdog"
+185:"eating ice cream"
+186:"eating nachos"
+187:"eating spaghetti"
+188:"eating watermelon"
+207:"fixing hair"
+285:"laughing"
+323:"massaging back"
+324:"massaging feet"
+325:"massaging legs"
+326:"massaging neck"
+327:"massaging person's head"
+343:"news anchoring"
+344:"opening bottle (not wine)"
+346:"opening door"
+473:"raising eyebrows"
+474:"reading book"
+475:"reading newspaper"
+476:"recording music"
+562:"sneezing"
+586:"stretching arm"
+608:"talking on cell phone"
+643:"tying necktie"
+668:"walking on stilts"
+669:"walking the dog"
+670:"walking through snow"
+671:"walking with crutches"
+676:"watching tv"
+697:"yawning"
+
+
+
+Abnormal
+70:"calculating"
+71:"calligraphy"
+166:"doing sudoku"
+167:"drawing"
+494:"rolling eyes"
+607:"taking photo"
+617:"texting"
+695:"writing"
+
+
+
+"adjusting glasses" "blowing nose" "brushing hair" "brushing teeth" "chewing gum" "clapping" "coughing" "counting money" "cracking knuckles" "cracking neck" "drinking shots" "eating burger" "eating cake" "eating carrots" "eating chips" "eating doughnuts" "eating hotdog" "eating ice cream" "eating nachos" "eating spaghetti" "eating watermelon" "fixing hair" "laughing" "massaging back" "massaging feet" "massaging legs" "massaging neck" "massaging person's head" "news anchoring" "opening bottle (not wine)" "opening door" "raising eyebrows" "reading book" "reading newspaper" "recording music" "sneezing" "stretching arm" "talking on cell phone" "tying necktie" "using computer" "walking on stilts" "walking the dog" "walking through snow" "walking with crutches" "watching tv" "yawning"
+
+
+
+"calculating" "calligraphy" "doing sudoku" "drawing" "rolling eyes" "taking photo" "texting" "writing"
+
+
+'sipping cup'
